@@ -9,6 +9,7 @@
     "start": "next start",
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build"
+    "validate-env": "node scripts/validate-env.js"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",
